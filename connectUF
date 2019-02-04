@@ -1,0 +1,2 @@
+#!/bin/bash
+wget -o $HOME/Desktop/addtrustexternalcarootbase64.crt https://wiki.helpdesk.ufl.edu/Site/UploadQuickReference?action=download&upname=AddTrustExternalCARootBase64crt
